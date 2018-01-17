@@ -136,7 +136,8 @@ def MUTATE_delete_negatives(numbers):
     #       for various quite-subtle reasons.
     #       Take a stab at this problem,
     #       then ask for help as needed.
-
+    # HINT #2: Why might it be wise to start at the end and
+    #       work backwards through the list to the beginning?
 
 # ----------------------------------------------------------------------
 # If this module is running at the top level (as opposed to being
